@@ -33,8 +33,7 @@ https://www.w3schools.com/html/html5_video.asp
 https://www.w3schools.com/html/html_symbols.asp
 
 BONUS:
--using both atble and list
+-using both table and list
 -suprise with the colors and backgrounds
--use <hr> tag
+-use <footer> tag
 -insert a location
-
